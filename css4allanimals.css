@@ -1,0 +1,39 @@
+h1 {
+  color: red
+ ;
+  font-size: 25px;
+}
+h2 {
+  color: orange;
+  font-size: 25px;
+}
+h3 {
+  color: yellow;
+  font-size: 25px;
+}
+h4 { 
+color: green;
+font-size: 25px;}
+h5 {
+  color:blue;
+  font-size: 25px;
+} 
+h6 {
+  color:purple;
+  font-size: 25px;
+}
+tr, th, td {
+  border: 5px solid black;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+li {
+  float: left;
+  padding: 15px;
+}
